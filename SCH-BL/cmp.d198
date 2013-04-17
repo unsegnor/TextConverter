@@ -1,0 +1,93 @@
+
+ACO algorithms for the TSP, v1.02
+
+Parameter-settings: 
+
+max_tries		 5
+max_tours		 0
+max_time		 300.00
+seed		 1366055146
+optimum			 15780
+n_ants			 15
+nn_ants			 20
+alpha			 1.00
+beta			 2.00
+rho			 0.20
+q_0			 0.80
+elitist_ants		 0
+ras_ranks		 0
+ls_flag			 3
+nn_ls			 40
+dlb_flag		 1
+as_flag			 0
+eas_flag		 0
+ras_flag		 0
+mmas_flag		 0
+bwas_flag		 0
+acs_flag		 1
+
+begin problem d198.tsp
+seed 1366055146
+begin try 0 
+best 15894	 iteration 1	 tours 17	 time 0.016
+best 15821	 iteration 2	 tours 32	 time 0.016
+best 15800	 iteration 3	 tours 47	 time 0.016
+best 15796	 iteration 7	 tours 107	 time 0.031
+best 15791	 iteration 10	 tours 152	 time 0.047
+best 15781	 iteration 11	 tours 167	 time 0.047
+best 15780	 iteration 37	 tours 557	 time 0.140
+end try 0
+
+seed 1110273394
+begin try 1 
+best 15842	 iteration 1	 tours 17	 time 0.016
+best 15810	 iteration 3	 tours 47	 time 0.016
+best 15804	 iteration 4	 tours 62	 time 0.016
+best 15799	 iteration 5	 tours 77	 time 0.032
+best 15784	 iteration 6	 tours 92	 time 0.032
+best 15782	 iteration 11	 tours 167	 time 0.063
+best 15780	 iteration 18	 tours 272	 time 0.094
+end try 1
+
+seed 66564151
+begin try 2 
+best 15907	 iteration 1	 tours 17	 time 0.000
+best 15845	 iteration 2	 tours 32	 time 0.016
+best 15835	 iteration 4	 tours 62	 time 0.016
+best 15805	 iteration 5	 tours 77	 time 0.031
+best 15804	 iteration 6	 tours 92	 time 0.031
+best 15781	 iteration 7	 tours 107	 time 0.031
+best 15780	 iteration 592	 tours 8882	 time 2.590
+end try 2
+
+seed 1717678858
+begin try 3 
+best 15892	 iteration 1	 tours 17	 time 0.000
+best 15834	 iteration 2	 tours 32	 time 0.000
+best 15827	 iteration 4	 tours 62	 time 0.015
+best 15825	 iteration 5	 tours 77	 time 0.015
+best 15805	 iteration 6	 tours 92	 time 0.031
+best 15803	 iteration 7	 tours 107	 time 0.031
+best 15800	 iteration 11	 tours 167	 time 0.046
+best 15793	 iteration 14	 tours 212	 time 0.046
+best 15784	 iteration 70	 tours 1052	 time 0.265
+best 15780	 iteration 84	 tours 1262	 time 0.312
+end try 3
+
+seed 2059250449
+begin try 4 
+best 15896	 iteration 1	 tours 17	 time 0.015
+best 15851	 iteration 2	 tours 32	 time 0.015
+best 15836	 iteration 3	 tours 47	 time 0.031
+best 15810	 iteration 4	 tours 62	 time 0.031
+best 15809	 iteration 6	 tours 92	 time 0.031
+best 15800	 iteration 15	 tours 227	 time 0.062
+best 15798	 iteration 18	 tours 272	 time 0.078
+best 15795	 iteration 26	 tours 392	 time 0.109
+best 15793	 iteration 28	 tours 422	 time 0.109
+best 15792	 iteration 36	 tours 542	 time 0.156
+best 15781	 iteration 38	 tours 572	 time 0.156
+best 15780	 iteration 403	 tours 6047	 time 1.684
+end try 4
+
+end problem d198
