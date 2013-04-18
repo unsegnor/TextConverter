@@ -26,7 +26,7 @@ public class ProbarPatron {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        String resultados = pruebaPatron("best.rat783", "^optimum[^\\d]*(\\d+)");
+        String resultados = pruebaPatron("cmp.rat783", "^best[^\\d]*(\\d+)[^\\d]*iteration[^\\d]*(\\d+)[^\\d]*tours[^\\d]*(\\d+)[^\\d]*time[^\\d]*([\\d\\.]+)");
         
         System.out.println(resultados);
         

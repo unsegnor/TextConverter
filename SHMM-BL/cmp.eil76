@@ -1,0 +1,72 @@
+
+ACO algorithms for the TSP, v1.02
+
+Parameter-settings: 
+
+max_tries		 5
+max_tours		 0
+max_time		 300.00
+seed		 1366146291
+optimum			 538
+n_ants			 15
+nn_ants			 20
+alpha			 1.00
+beta			 2.00
+rho			 0.20
+q_0			 0.00
+elitist_ants		 0
+ras_ranks		 0
+ls_flag			 3
+nn_ls			 40
+dlb_flag		 1
+as_flag			 0
+eas_flag		 0
+ras_flag		 0
+mmas_flag		 1
+bwas_flag		 0
+acs_flag		 0
+
+begin problem eil76.tsp
+seed 1366146291
+begin try 0 
+best 545	 iteration 1	 tours 17	 time 0.000
+best 543	 iteration 4	 tours 62	 time 0.015
+best 542	 iteration 5	 tours 77	 time 0.015
+best 538	 iteration 6	 tours 92	 time 0.015
+end try 0
+
+seed 1483911571
+begin try 1 
+best 545	 iteration 1	 tours 17	 time 0.000
+best 542	 iteration 2	 tours 32	 time 0.000
+best 540	 iteration 7	 tours 107	 time 0.016
+best 538	 iteration 15	 tours 227	 time 0.031
+end try 1
+
+seed 968241834
+begin try 2 
+best 546	 iteration 1	 tours 17	 time 0.000
+best 542	 iteration 2	 tours 32	 time 0.000
+best 541	 iteration 7	 tours 107	 time 0.000
+best 540	 iteration 12	 tours 182	 time 0.016
+best 538	 iteration 16	 tours 242	 time 0.016
+end try 2
+
+seed 1731115730
+begin try 3 
+best 550	 iteration 1	 tours 17	 time 0.000
+best 542	 iteration 2	 tours 32	 time 0.016
+best 539	 iteration 3	 tours 47	 time 0.016
+best 538	 iteration 11	 tours 167	 time 0.031
+end try 3
+
+seed 632895610
+begin try 4 
+best 546	 iteration 1	 tours 17	 time 0.000
+best 543	 iteration 2	 tours 32	 time 0.000
+best 540	 iteration 3	 tours 47	 time 0.000
+best 539	 iteration 11	 tours 167	 time 0.016
+best 538	 iteration 13	 tours 197	 time 0.016
+end try 4
+
+end problem eil76

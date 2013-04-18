@@ -4,7 +4,7 @@ Parameter-settings:
 max_tries		 5
 max_tours		 0
 max_time		 300.00
-seed		 1366052142
+seed		 1366141517
 optimum			 15780
 n_ants			 15
 nn_ants			 20
@@ -24,17 +24,17 @@ mmas_flag		 0
 bwas_flag		 0
 acs_flag		 0
 
-Best: 15780	 Iterations:   1485	 B-Fac 1.81566	 Time 7.47	 Tot.time 7.47
-Best: 15780	 Iterations:   1890	 B-Fac 1.78788	 Time 8.50	 Tot.time 8.50
-Best: 15780	 Iterations:   2578	 B-Fac 1.74747	 Time 10.95	 Tot.time 10.95
-Best: 15780	 Iterations:    335	 B-Fac 1.80556	 Time 1.44	 Tot.time 1.44
-Best: 15780	 Iterations:   4023	 B-Fac 1.77525	 Time 19.38	 Tot.time 19.38
+Best: 15780	 Iterations:   4506	 B-Fac 1.75505	 Time 22.39	 Tot.time 22.39
+Best: 15780	 Iterations:   2562	 B-Fac 1.79798	 Time 10.58	 Tot.time 10.58
+Best: 15780	 Iterations:   1345	 B-Fac 1.82071	 Time 5.60	 Tot.time 5.60
+Best: 15780	 Iterations:    275	 B-Fac 1.81818	 Time 1.15	 Tot.time 1.15
+Best: 15780	 Iterations:   6380	 B-Fac 1.80303	 Time 34.94	 Tot.time 34.94
 
-Average-Best: 15780.00	 Average-Iterations: 2062.20
-Stddev-Best: 0.00 	 Stddev Iterations: 1365.36
+Average-Best: 15780.00	 Average-Iterations: 3013.60
+Stddev-Best: 0.00 	 Stddev Iterations: 2451.94
 Best try: 15780		 Worst try: 15780
 
-Avg.time-best: 9.55 stddev.time-best: 6.52
+Avg.time-best: 14.93 stddev.time-best: 13.71
 
-Avg.time-total: 9.55 stddev.time-total: 6.52
+Avg.time-total: 14.93 stddev.time-total: 13.71
  excess best = 0.000000, excess average = 0.000000, excess worst = 0.000000

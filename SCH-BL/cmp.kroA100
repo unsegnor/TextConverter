@@ -6,7 +6,7 @@ Parameter-settings:
 max_tries		 5
 max_tours		 0
 max_time		 300.00
-seed		 1366055146
+seed		 1366144518
 optimum			 21282
 n_ants			 15
 nn_ants			 20
@@ -27,33 +27,30 @@ bwas_flag		 0
 acs_flag		 1
 
 begin problem kroA100.tsp
-seed 1366055146
+seed 1366144518
 begin try 0 
-best 21369	 iteration 1	 tours 17	 time 0.000
-best 21353	 iteration 2	 tours 32	 time 0.000
-best 21282	 iteration 3	 tours 47	 time 0.000
+best 21305	 iteration 1	 tours 17	 time 0.015
+best 21282	 iteration 2	 tours 32	 time 0.015
 end try 0
 
-seed 1722768469
+seed 1977395578
 begin try 1 
-best 21305	 iteration 1	 tours 17	 time 0.000
-best 21282	 iteration 2	 tours 32	 time 0.000
+best 21282	 iteration 1	 tours 17	 time 0.000
 end try 1
 
-seed 1701350281
+seed 1119799638
 begin try 2 
-best 21304	 iteration 1	 tours 17	 time 0.000
-best 21282	 iteration 2	 tours 32	 time 0.000
+best 21282	 iteration 1	 tours 17	 time 0.000
 end try 2
 
-seed 616186435
+seed 1367534111
 begin try 3 
 best 21282	 iteration 1	 tours 17	 time 0.000
 end try 3
 
-seed 2045826257
+seed 1944533634
 begin try 4 
-best 21282	 iteration 1	 tours 17	 time 0.016
+best 21282	 iteration 1	 tours 17	 time 0.000
 end try 4
 
 end problem kroA100
